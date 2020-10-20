@@ -4,7 +4,7 @@ const ejs = require('ejs');
 const fs = require('fs');
 
 const person = {
-    name: 'John Doe'
+    name: 'Cristian Francolino'
 };
 
 app.get('/', (req, res) => {
